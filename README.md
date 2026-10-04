@@ -1,9 +1,9 @@
 # Hi, I'm Ayaan 👋
 2nd Year Cyber Security student at Sheffield Hallam University (BSc, sandwich year), looking for a 2027 placement.
 
-#🔐 Interests: SOC, detection, home labs, Linux, threat intelligence
-#🛠 Currently building: a detection lab with Wazuh, Kali and Windows Server 
-#📫 https://www.linkedin.com/in/ayaan-rehman-ab143a280/ · https://tryhackme.com/p/shukro
+🔐 Interests: SOC, detection, home labs, Linux, threat intelligence
+🛠 Currently building: a detection lab with Wazuh, Kali and Windows Server 
+📫 https://www.linkedin.com/in/ayaan-rehman-ab143a280/ · https://tryhackme.com/p/shukro
 
 ## Projects (all in progress!)
 - Detection Lab – attacks detected in Wazuh, mapped to MITRE ATT&CK
